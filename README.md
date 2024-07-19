@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Propandit/leetcodes/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/Propandit/leetcodes/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Propandit/leetcodes/tree/master/0345-reverse-vowels-of-a-string) |
+| [0567-permutation-in-string](https://github.com/Propandit/leetcodes/tree/master/0567-permutation-in-string) |
 | [0874-backspace-string-compare](https://github.com/Propandit/leetcodes/tree/master/0874-backspace-string-compare) |
 | [0961-long-pressed-name](https://github.com/Propandit/leetcodes/tree/master/0961-long-pressed-name) |
 ## String
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Propandit/leetcodes/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Propandit/leetcodes/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Propandit/leetcodes/tree/master/0345-reverse-vowels-of-a-string) |
+| [0567-permutation-in-string](https://github.com/Propandit/leetcodes/tree/master/0567-permutation-in-string) |
 | [0874-backspace-string-compare](https://github.com/Propandit/leetcodes/tree/master/0874-backspace-string-compare) |
 | [0961-long-pressed-name](https://github.com/Propandit/leetcodes/tree/master/0961-long-pressed-name) |
 ## String Matching
@@ -43,4 +45,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Propandit/leetcodes/tree/master/0234-palindrome-linked-list) |
+## Hash Table
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/Propandit/leetcodes/tree/master/0567-permutation-in-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/Propandit/leetcodes/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
