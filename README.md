@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Propandit/leetcodes/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/Propandit/leetcodes/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/Propandit/leetcodes/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Propandit/leetcodes/tree/master/0125-valid-palindrome) |
 | [0234-palindrome-linked-list](https://github.com/Propandit/leetcodes/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/Propandit/leetcodes/tree/master/0344-reverse-string) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Propandit/leetcodes/tree/master/0042-trapping-rain-water) |
 | [0064-minimum-path-sum](https://github.com/Propandit/leetcodes/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Propandit/leetcodes/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/Propandit/leetcodes/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Propandit/leetcodes/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0152-maximum-product-subarray](https://github.com/Propandit/leetcodes/tree/master/0152-maximum-product-subarray) |
 | [0853-most-profit-assigning-work](https://github.com/Propandit/leetcodes/tree/master/0853-most-profit-assigning-work) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Propandit/leetcodes/tree/master/0075-sort-colors) |
 | [0853-most-profit-assigning-work](https://github.com/Propandit/leetcodes/tree/master/0853-most-profit-assigning-work) |
 | [0917-boats-to-save-people](https://github.com/Propandit/leetcodes/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/Propandit/leetcodes/tree/master/0948-sort-an-array) |
