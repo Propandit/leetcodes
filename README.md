@@ -175,4 +175,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/Propandit/leetcodes/tree/master/0137-single-number-ii) |
+## Math
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Propandit/leetcodes/tree/master/0292-nim-game) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Propandit/leetcodes/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Propandit/leetcodes/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
