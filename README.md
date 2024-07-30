@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Propandit/leetcodes/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Propandit/leetcodes/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Propandit/leetcodes/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0975-range-sum-of-bst](https://github.com/Propandit/leetcodes/tree/master/0975-range-sum-of-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Propandit/leetcodes/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Propandit/leetcodes/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Propandit/leetcodes/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0975-range-sum-of-bst](https://github.com/Propandit/leetcodes/tree/master/0975-range-sum-of-bst) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -132,10 +134,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Propandit/leetcodes/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Propandit/leetcodes/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0975-range-sum-of-bst](https://github.com/Propandit/leetcodes/tree/master/0975-range-sum-of-bst) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Propandit/leetcodes/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0975-range-sum-of-bst](https://github.com/Propandit/leetcodes/tree/master/0975-range-sum-of-bst) |
 ## Dynamic Programming
 |  |
 | ------- |
