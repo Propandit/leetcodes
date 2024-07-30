@@ -14,16 +14,25 @@
  * }
  */
 public class Solution {
+    int sum;
     public int rangeSumBST(TreeNode root, int low, int high) {
-        if (root == null) {
-            return 0;
+        sum=0;
+        helper(root, low, high);
+        return sum;
+        
+    }
+
+    public void helper(TreeNode root, int low, int high){
+        if(root!=null){
+            if(low<=root.val && root.val<=high){
+                sum+=root.val;
+            }
+            if(low<root.val){
+                helper(root.left, low, high);
+            }
+            if(high>root.val){
+                helper(root.right, low, high);
+            }
         }
-
-        int currentVal = (root.val >= low && root.val <= high) ? root.val : 0;
-
-        int leftSum = rangeSumBST(root.left, low, high);
-        int rightSum = rangeSumBST(root.right, low, high);
-
-        return currentVal + leftSum + rightSum;
     }
 }
