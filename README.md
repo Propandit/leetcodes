@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Propandit/leetcodes/tree/master/0234-palindrome-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/Propandit/leetcodes/tree/master/0328-odd-even-linked-list) |
 ## Recursion
 |  |
 | ------- |
