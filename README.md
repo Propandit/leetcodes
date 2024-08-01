@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Propandit/leetcodes/tree/master/0567-permutation-in-string) |
 | [0874-backspace-string-compare](https://github.com/Propandit/leetcodes/tree/master/0874-backspace-string-compare) |
 | [0961-long-pressed-name](https://github.com/Propandit/leetcodes/tree/master/0961-long-pressed-name) |
+| [1777-determine-if-two-strings-are-close](https://github.com/Propandit/leetcodes/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/Propandit/leetcodes/tree/master/1894-merge-strings-alternately) |
 ## String Matching
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0567-permutation-in-string](https://github.com/Propandit/leetcodes/tree/master/0567-permutation-in-string) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Propandit/leetcodes/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1777-determine-if-two-strings-are-close](https://github.com/Propandit/leetcodes/tree/master/1777-determine-if-two-strings-are-close) |
 ## Sliding Window
 |  |
 | ------- |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-most-profit-assigning-work](https://github.com/Propandit/leetcodes/tree/master/0853-most-profit-assigning-work) |
 | [0917-boats-to-save-people](https://github.com/Propandit/leetcodes/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/Propandit/leetcodes/tree/master/0948-sort-an-array) |
+| [1777-determine-if-two-strings-are-close](https://github.com/Propandit/leetcodes/tree/master/1777-determine-if-two-strings-are-close) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -180,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Propandit/leetcodes/tree/master/0948-sort-an-array) |
+| [1777-determine-if-two-strings-are-close](https://github.com/Propandit/leetcodes/tree/master/1777-determine-if-two-strings-are-close) |
 ## Monotonic Stack
 |  |
 | ------- |
