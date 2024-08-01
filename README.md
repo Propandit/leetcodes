@@ -42,10 +42,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Propandit/leetcodes/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/Propandit/leetcodes/tree/master/0234-palindrome-linked-list) |
+| [0735-asteroid-collision](https://github.com/Propandit/leetcodes/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/Propandit/leetcodes/tree/master/0874-backspace-string-compare) |
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/Propandit/leetcodes/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/Propandit/leetcodes/tree/master/0874-backspace-string-compare) |
 ## Linked List
 |  |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Propandit/leetcodes/tree/master/0179-largest-number) |
 | [0238-product-of-array-except-self](https://github.com/Propandit/leetcodes/tree/master/0238-product-of-array-except-self) |
 | [0414-third-maximum-number](https://github.com/Propandit/leetcodes/tree/master/0414-third-maximum-number) |
+| [0735-asteroid-collision](https://github.com/Propandit/leetcodes/tree/master/0735-asteroid-collision) |
 | [0853-most-profit-assigning-work](https://github.com/Propandit/leetcodes/tree/master/0853-most-profit-assigning-work) |
 | [0917-boats-to-save-people](https://github.com/Propandit/leetcodes/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/Propandit/leetcodes/tree/master/0948-sort-an-array) |
