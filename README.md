@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Propandit/leetcodes/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Propandit/leetcodes/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/Propandit/leetcodes/tree/master/0238-product-of-array-except-self) |
+| [0334-increasing-triplet-subsequence](https://github.com/Propandit/leetcodes/tree/master/0334-increasing-triplet-subsequence) |
 | [0414-third-maximum-number](https://github.com/Propandit/leetcodes/tree/master/0414-third-maximum-number) |
 | [0605-can-place-flowers](https://github.com/Propandit/leetcodes/tree/master/0605-can-place-flowers) |
 | [0735-asteroid-collision](https://github.com/Propandit/leetcodes/tree/master/0735-asteroid-collision) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Propandit/leetcodes/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/Propandit/leetcodes/tree/master/0179-largest-number) |
+| [0334-increasing-triplet-subsequence](https://github.com/Propandit/leetcodes/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/Propandit/leetcodes/tree/master/0605-can-place-flowers) |
 | [0853-most-profit-assigning-work](https://github.com/Propandit/leetcodes/tree/master/0853-most-profit-assigning-work) |
 | [0917-boats-to-save-people](https://github.com/Propandit/leetcodes/tree/master/0917-boats-to-save-people) |
