@@ -16,7 +16,7 @@ class Solution {
 
         }
                 // System.out.println(num);
-                  System.out.println(Arrays.toString(num));
+                //   System.out.println(Arrays.toString(num));
         Arrays.sort(num);
         for(int k=left-1; k<right;k++){
 finalsum+=num[k];
