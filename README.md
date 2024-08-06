@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/Propandit/leetcodes/tree/master/0567-permutation-in-string) |
+| [0643-maximum-average-subarray-i](https://github.com/Propandit/leetcodes/tree/master/0643-maximum-average-subarray-i) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Propandit/leetcodes/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Array
 |  |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/Propandit/leetcodes/tree/master/0334-increasing-triplet-subsequence) |
 | [0414-third-maximum-number](https://github.com/Propandit/leetcodes/tree/master/0414-third-maximum-number) |
 | [0605-can-place-flowers](https://github.com/Propandit/leetcodes/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/Propandit/leetcodes/tree/master/0643-maximum-average-subarray-i) |
 | [0735-asteroid-collision](https://github.com/Propandit/leetcodes/tree/master/0735-asteroid-collision) |
 | [0853-most-profit-assigning-work](https://github.com/Propandit/leetcodes/tree/master/0853-most-profit-assigning-work) |
 | [0917-boats-to-save-people](https://github.com/Propandit/leetcodes/tree/master/0917-boats-to-save-people) |
