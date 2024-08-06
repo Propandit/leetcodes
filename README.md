@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Propandit/leetcodes/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/Propandit/leetcodes/tree/master/0334-increasing-triplet-subsequence) |
 | [0414-third-maximum-number](https://github.com/Propandit/leetcodes/tree/master/0414-third-maximum-number) |
+| [0485-max-consecutive-ones](https://github.com/Propandit/leetcodes/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/Propandit/leetcodes/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Propandit/leetcodes/tree/master/0643-maximum-average-subarray-i) |
 | [0735-asteroid-collision](https://github.com/Propandit/leetcodes/tree/master/0735-asteroid-collision) |
