@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Propandit/leetcodes/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/Propandit/leetcodes/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Propandit/leetcodes/tree/master/0643-maximum-average-subarray-i) |
+| [0724-find-pivot-index](https://github.com/Propandit/leetcodes/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Propandit/leetcodes/tree/master/0735-asteroid-collision) |
 | [0853-most-profit-assigning-work](https://github.com/Propandit/leetcodes/tree/master/0853-most-profit-assigning-work) |
 | [0917-boats-to-save-people](https://github.com/Propandit/leetcodes/tree/master/0917-boats-to-save-people) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Propandit/leetcodes/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/Propandit/leetcodes/tree/master/0724-find-pivot-index) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Propandit/leetcodes/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1833-find-the-highest-altitude](https://github.com/Propandit/leetcodes/tree/master/1833-find-the-highest-altitude) |
 ## Tree
