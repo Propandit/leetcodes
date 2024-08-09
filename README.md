@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Propandit/leetcodes/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Propandit/leetcodes/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Propandit/leetcodes/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0904-leaf-similar-trees](https://github.com/Propandit/leetcodes/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/Propandit/leetcodes/tree/master/0975-range-sum-of-bst) |
 ## Breadth-First Search
 |  |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Propandit/leetcodes/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Propandit/leetcodes/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Propandit/leetcodes/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0904-leaf-similar-trees](https://github.com/Propandit/leetcodes/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/Propandit/leetcodes/tree/master/0975-range-sum-of-bst) |
 ## Divide and Conquer
 |  |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Propandit/leetcodes/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Propandit/leetcodes/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Propandit/leetcodes/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0904-leaf-similar-trees](https://github.com/Propandit/leetcodes/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/Propandit/leetcodes/tree/master/0975-range-sum-of-bst) |
 ## Dynamic Programming
 |  |
