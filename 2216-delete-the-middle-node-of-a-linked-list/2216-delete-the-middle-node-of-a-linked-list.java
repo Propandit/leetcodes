@@ -14,15 +14,16 @@ class Solution {
             return null;
         }
         ListNode temp=head;
-        ListNode curr=head;
+         ListNode curr=head;
         int count=0;
 
         while(temp!=null){
             count++;
             temp=temp.next;
         }
+        int n=count/2;
       
-        for(int i=0; i<count/2-1;i++){
+        for(int i=0; i<n-1;i++){
          curr=curr.next;
         }
         curr.next=curr.next.next;
