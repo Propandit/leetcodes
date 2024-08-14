@@ -28,7 +28,8 @@ class Solution {
             int right=height(root.right);
             int diff=Math.abs(left-right);
             if(diff>1){
-                flag=false;}
+                flag=false;
+             System.out.println(diff);}
             return Math.max(left,right)+1;
         }
 
