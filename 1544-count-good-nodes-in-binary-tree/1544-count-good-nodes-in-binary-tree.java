@@ -14,7 +14,7 @@
  * }
  */
 class Solution {
-    int c=0;
+    public int c=0;
     public int goodNodes(TreeNode root) {
         print(root,root.val);
         return c;
