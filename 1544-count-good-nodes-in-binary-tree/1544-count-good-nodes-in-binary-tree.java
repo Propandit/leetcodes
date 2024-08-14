@@ -16,7 +16,7 @@
 class Solution {
     int count=0;
     public int goodNodes(TreeNode root) {
-        print(root,Integer.MIN_VALUE);
+        print(root,root.val);
         return count;
     }
     public void print(TreeNode root,int maxval){
