@@ -14,18 +14,21 @@
  * }
  */
 class Solution {
-    public int c=0;
- public void print(TreeNode root,int max){
-        if(root==null) return;
+     public int c=0;
+    public void count(TreeNode root,int max){
+        if(root==null){
+            return;
+        }
         if(root.val>=max){
             c++;
             max=root.val;
-            }
-        print(root.left,max);
-        print(root.right,max);
- }
+        }
+        count(root.left,max);
+        count(root.right,max);
+    
+    }
     public int goodNodes(TreeNode root) {
-        print(root,root.val);
+        count(root,root.val);
         return c;
     }
     }
