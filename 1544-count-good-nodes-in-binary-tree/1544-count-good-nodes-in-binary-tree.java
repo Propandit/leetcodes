@@ -14,19 +14,16 @@
  * }
  */
 class Solution {
-    int count=0;
+    int c=0;
     public int goodNodes(TreeNode root) {
         print(root,root.val);
-        return count;
+        return c;
     }
-    public void print(TreeNode root,int maxval){
+    public void print(TreeNode root,int max){
         if(root==null) return;
-        if(root.val>=maxval){
-            count++;
-            maxval=root.val;
-
-        }
-        print(root.left,maxval);
-        print(root.right,maxval);
-    }
-}
+        if(root.val>=max){
+            c++;
+            max=root.val;}
+        print(root.left,max);
+        print(root.right,max);
+    }}
