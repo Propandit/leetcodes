@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Propandit/leetcodes/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Propandit/leetcodes/tree/master/0643-maximum-average-subarray-i) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Propandit/leetcodes/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Propandit/leetcodes/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Propandit/leetcodes/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Array
 |  |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1016-subarray-sums-divisible-by-k](https://github.com/Propandit/leetcodes/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Propandit/leetcodes/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Propandit/leetcodes/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Propandit/leetcodes/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Propandit/leetcodes/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Propandit/leetcodes/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/Propandit/leetcodes/tree/master/1833-find-the-highest-altitude) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Propandit/leetcodes/tree/master/0152-maximum-product-subarray) |
 | [0264-ugly-number-ii](https://github.com/Propandit/leetcodes/tree/master/0264-ugly-number-ii) |
 | [0392-is-subsequence](https://github.com/Propandit/leetcodes/tree/master/0392-is-subsequence) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Propandit/leetcodes/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Matrix
 |  |
 | ------- |
