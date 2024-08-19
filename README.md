@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Propandit/leetcodes/tree/master/0152-maximum-product-subarray) |
 | [0264-ugly-number-ii](https://github.com/Propandit/leetcodes/tree/master/0264-ugly-number-ii) |
 | [0392-is-subsequence](https://github.com/Propandit/leetcodes/tree/master/0392-is-subsequence) |
+| [0650-2-keys-keyboard](https://github.com/Propandit/leetcodes/tree/master/0650-2-keys-keyboard) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Propandit/leetcodes/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Matrix
 |  |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/Propandit/leetcodes/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/Propandit/leetcodes/tree/master/0273-integer-to-english-words) |
 | [0292-nim-game](https://github.com/Propandit/leetcodes/tree/master/0292-nim-game) |
+| [0650-2-keys-keyboard](https://github.com/Propandit/leetcodes/tree/master/0650-2-keys-keyboard) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Propandit/leetcodes/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Brainteaser
 |  |
