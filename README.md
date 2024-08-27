@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Propandit/leetcodes/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Propandit/leetcodes/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/Propandit/leetcodes/tree/master/0152-maximum-product-subarray) |
+| [0162-find-peak-element](https://github.com/Propandit/leetcodes/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/Propandit/leetcodes/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Propandit/leetcodes/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/Propandit/leetcodes/tree/master/0238-product-of-array-except-self) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Propandit/leetcodes/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/Propandit/leetcodes/tree/master/0074-search-a-2d-matrix) |
+| [0162-find-peak-element](https://github.com/Propandit/leetcodes/tree/master/0162-find-peak-element) |
 | [0374-guess-number-higher-or-lower](https://github.com/Propandit/leetcodes/tree/master/0374-guess-number-higher-or-lower) |
 | [0853-most-profit-assigning-work](https://github.com/Propandit/leetcodes/tree/master/0853-most-profit-assigning-work) |
 | [1046-max-consecutive-ones-iii](https://github.com/Propandit/leetcodes/tree/master/1046-max-consecutive-ones-iii) |
