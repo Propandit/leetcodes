@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-leaf-similar-trees](https://github.com/Propandit/leetcodes/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/Propandit/leetcodes/tree/master/0975-range-sum-of-bst) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Propandit/leetcodes/tree/master/0988-flip-equivalent-binary-trees) |
+| [1008-binary-tree-cameras](https://github.com/Propandit/leetcodes/tree/master/1008-binary-tree-cameras) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Propandit/leetcodes/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Propandit/leetcodes/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Propandit/leetcodes/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-leaf-similar-trees](https://github.com/Propandit/leetcodes/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/Propandit/leetcodes/tree/master/0975-range-sum-of-bst) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Propandit/leetcodes/tree/master/0988-flip-equivalent-binary-trees) |
+| [1008-binary-tree-cameras](https://github.com/Propandit/leetcodes/tree/master/1008-binary-tree-cameras) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Propandit/leetcodes/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Propandit/leetcodes/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Propandit/leetcodes/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-leaf-similar-trees](https://github.com/Propandit/leetcodes/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/Propandit/leetcodes/tree/master/0975-range-sum-of-bst) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Propandit/leetcodes/tree/master/0988-flip-equivalent-binary-trees) |
+| [1008-binary-tree-cameras](https://github.com/Propandit/leetcodes/tree/master/1008-binary-tree-cameras) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Propandit/leetcodes/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Propandit/leetcodes/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Propandit/leetcodes/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -325,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/Propandit/leetcodes/tree/master/0264-ugly-number-ii) |
 | [0392-is-subsequence](https://github.com/Propandit/leetcodes/tree/master/0392-is-subsequence) |
 | [0650-2-keys-keyboard](https://github.com/Propandit/leetcodes/tree/master/0650-2-keys-keyboard) |
+| [1008-binary-tree-cameras](https://github.com/Propandit/leetcodes/tree/master/1008-binary-tree-cameras) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Propandit/leetcodes/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Propandit/leetcodes/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Matrix
