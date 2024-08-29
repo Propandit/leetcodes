@@ -19,9 +19,11 @@ class Solution {
     }
     private int print(TreeNode root,int sum){
         if(root==null) return 0;
+
+    sum=sum*2+root.val;
 if(root.left==null && root.right==null){
-    return sum*2+root.val;
+    return sum;
 }
-return print(root.left,sum*2 + root.val) + print(root.right,sum*2 + root.val);
+return print(root.left,sum) + print(root.right,sum);
     }
 }
