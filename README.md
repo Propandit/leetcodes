@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Propandit/leetcodes/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0264-ugly-number-ii](https://github.com/Propandit/leetcodes/tree/master/0264-ugly-number-ii) |
 | [0567-permutation-in-string](https://github.com/Propandit/leetcodes/tree/master/0567-permutation-in-string) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/Propandit/leetcodes/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Propandit/leetcodes/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Propandit/leetcodes/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Propandit/leetcodes/tree/master/1777-determine-if-two-strings-are-close) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Propandit/leetcodes/tree/master/0543-diameter-of-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/Propandit/leetcodes/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/Propandit/leetcodes/tree/master/0975-range-sum-of-bst) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/Propandit/leetcodes/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Propandit/leetcodes/tree/master/0988-flip-equivalent-binary-trees) |
 | [1008-binary-tree-cameras](https://github.com/Propandit/leetcodes/tree/master/1008-binary-tree-cameras) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Propandit/leetcodes/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
@@ -420,9 +422,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/Propandit/leetcodes/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1325-path-with-maximum-probability](https://github.com/Propandit/leetcodes/tree/master/1325-path-with-maximum-probability) |
 ## Shortest Path
 |  |
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/Propandit/leetcodes/tree/master/1325-path-with-maximum-probability) |
+## Union Find
+|  |
+| ------- |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/Propandit/leetcodes/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 <!---LeetCode Topics End-->
