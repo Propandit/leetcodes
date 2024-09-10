@@ -16,6 +16,7 @@ class Solution {
         head.next=newhead;
         newhead=head;
         head=next;
-       }return newhead;
+       }
+       return newhead;
     }
 }
