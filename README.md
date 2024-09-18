@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2487-optimal-partition-of-string](https://github.com/Propandit/leetcodes/tree/master/2487-optimal-partition-of-string) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Propandit/leetcodes/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Propandit/leetcodes/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Propandit/leetcodes/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Sliding Window
 |  |
 | ------- |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2411-spiral-matrix-iv](https://github.com/Propandit/leetcodes/tree/master/2411-spiral-matrix-iv) |
 | [2727-number-of-senior-citizens](https://github.com/Propandit/leetcodes/tree/master/2727-number-of-senior-citizens) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Propandit/leetcodes/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Propandit/leetcodes/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Binary Search
 |  |
 | ------- |
@@ -437,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1585-the-kth-factor-of-n](https://github.com/Propandit/leetcodes/tree/master/1585-the-kth-factor-of-n) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Propandit/leetcodes/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2155-find-missing-observations](https://github.com/Propandit/leetcodes/tree/master/2155-find-missing-observations) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Propandit/leetcodes/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Brainteaser
 |  |
 | ------- |
