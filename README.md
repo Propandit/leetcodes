@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Propandit/leetcodes/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Propandit/leetcodes/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0264-ugly-number-ii](https://github.com/Propandit/leetcodes/tree/master/0264-ugly-number-ii) |
 | [0567-permutation-in-string](https://github.com/Propandit/leetcodes/tree/master/0567-permutation-in-string) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Propandit/leetcodes/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Propandit/leetcodes/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Propandit/leetcodes/tree/master/0011-container-with-most-water) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Propandit/leetcodes/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
