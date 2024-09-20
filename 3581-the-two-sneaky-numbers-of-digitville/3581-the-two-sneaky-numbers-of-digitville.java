@@ -1,14 +1,21 @@
 class Solution {
     public int[] getSneakyNumbers(int[] nums) {
-        int n=nums.length,idx=0;
-        int[] arr = new int[n];
-        int[] res = new int[2];
-        for(int i=0;i<n;i++)arr[nums[i]]++;
-        for(int i=0;i<n;i++){
-            if(arr[i]==2){
-                res[idx++]=i;
+        int[] result=new int[2];
+        int n=nums.length-2;
+        boolean[] found=new boolean[n+2];
+        int index=0;
+        for(int num:nums){
+            if (found[num]){
+                result[index++]=num;
+
+            }
+            else{
+                found[num]=true;
+            }
+            if(index==2){
+                break;
             }
         }
-        return res;
+        return result;
     }
 }
