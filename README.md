@@ -356,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Propandit/leetcodes/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Propandit/leetcodes/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Propandit/leetcodes/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0386-lexicographical-numbers](https://github.com/Propandit/leetcodes/tree/master/0386-lexicographical-numbers) |
 | [0437-path-sum-iii](https://github.com/Propandit/leetcodes/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Propandit/leetcodes/tree/master/0543-diameter-of-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/Propandit/leetcodes/tree/master/0904-leaf-similar-trees) |
@@ -496,4 +497,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Propandit/leetcodes/tree/master/0295-find-median-from-data-stream) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/Propandit/leetcodes/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
