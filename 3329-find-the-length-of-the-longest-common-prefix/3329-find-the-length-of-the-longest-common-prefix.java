@@ -4,7 +4,6 @@ class Solution {
 
 	for(int val : arr1){
 		String str = val+"";
-        System.out.print(str);
 		int len = str.length();
 		for(int i=0; i<len; i++){
 			int curr = Integer.parseInt(str.substring(0, i+1));
