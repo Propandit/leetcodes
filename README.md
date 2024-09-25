@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Propandit/leetcodes/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Propandit/leetcodes/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/Propandit/leetcodes/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/Propandit/leetcodes/tree/master/0128-longest-consecutive-sequence) |
 | [0264-ugly-number-ii](https://github.com/Propandit/leetcodes/tree/master/0264-ugly-number-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Propandit/leetcodes/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Propandit/leetcodes/tree/master/0567-permutation-in-string) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Propandit/leetcodes/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Propandit/leetcodes/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Propandit/leetcodes/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0128-longest-consecutive-sequence](https://github.com/Propandit/leetcodes/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Propandit/leetcodes/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Propandit/leetcodes/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/Propandit/leetcodes/tree/master/0152-maximum-product-subarray) |
@@ -501,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Propandit/leetcodes/tree/master/0128-longest-consecutive-sequence) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Propandit/leetcodes/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 ## Design
 |  |
