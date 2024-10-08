@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/Propandit/leetcodes/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/Propandit/leetcodes/tree/master/1894-merge-strings-alternately) |
 | [1923-sentence-similarity-iii](https://github.com/Propandit/leetcodes/tree/master/1923-sentence-similarity-iii) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Propandit/leetcodes/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Propandit/leetcodes/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Propandit/leetcodes/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Propandit/leetcodes/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/Propandit/leetcodes/tree/master/1894-merge-strings-alternately) |
 | [1923-sentence-similarity-iii](https://github.com/Propandit/leetcodes/tree/master/1923-sentence-similarity-iii) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Propandit/leetcodes/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Propandit/leetcodes/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Propandit/leetcodes/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2487-optimal-partition-of-string](https://github.com/Propandit/leetcodes/tree/master/2487-optimal-partition-of-string) |
 | [2727-number-of-senior-citizens](https://github.com/Propandit/leetcodes/tree/master/2727-number-of-senior-citizens) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Propandit/leetcodes/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/Propandit/leetcodes/tree/master/0874-backspace-string-compare) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Propandit/leetcodes/tree/master/1497-design-a-stack-with-increment-operation) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Propandit/leetcodes/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Propandit/leetcodes/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Propandit/leetcodes/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Simulation
@@ -255,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-most-profit-assigning-work](https://github.com/Propandit/leetcodes/tree/master/0853-most-profit-assigning-work) |
 | [0890-lemonade-change](https://github.com/Propandit/leetcodes/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/Propandit/leetcodes/tree/master/0917-boats-to-save-people) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Propandit/leetcodes/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2487-optimal-partition-of-string](https://github.com/Propandit/leetcodes/tree/master/2487-optimal-partition-of-string) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Propandit/leetcodes/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
