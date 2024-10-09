@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Propandit/leetcodes/tree/master/0567-permutation-in-string) |
 | [0874-backspace-string-compare](https://github.com/Propandit/leetcodes/tree/master/0874-backspace-string-compare) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Propandit/leetcodes/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Propandit/leetcodes/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0961-long-pressed-name](https://github.com/Propandit/leetcodes/tree/master/0961-long-pressed-name) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Propandit/leetcodes/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Propandit/leetcodes/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Propandit/leetcodes/tree/master/0234-palindrome-linked-list) |
 | [0735-asteroid-collision](https://github.com/Propandit/leetcodes/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/Propandit/leetcodes/tree/master/0874-backspace-string-compare) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Propandit/leetcodes/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Propandit/leetcodes/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Propandit/leetcodes/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Propandit/leetcodes/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-most-profit-assigning-work](https://github.com/Propandit/leetcodes/tree/master/0853-most-profit-assigning-work) |
 | [0890-lemonade-change](https://github.com/Propandit/leetcodes/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/Propandit/leetcodes/tree/master/0917-boats-to-save-people) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Propandit/leetcodes/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Propandit/leetcodes/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2487-optimal-partition-of-string](https://github.com/Propandit/leetcodes/tree/master/2487-optimal-partition-of-string) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Propandit/leetcodes/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
