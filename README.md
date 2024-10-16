@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-most-profit-assigning-work](https://github.com/Propandit/leetcodes/tree/master/0853-most-profit-assigning-work) |
 | [0874-backspace-string-compare](https://github.com/Propandit/leetcodes/tree/master/0874-backspace-string-compare) |
 | [0917-boats-to-save-people](https://github.com/Propandit/leetcodes/tree/master/0917-boats-to-save-people) |
+| [0941-sort-array-by-parity](https://github.com/Propandit/leetcodes/tree/master/0941-sort-array-by-parity) |
 | [0961-long-pressed-name](https://github.com/Propandit/leetcodes/tree/master/0961-long-pressed-name) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Propandit/leetcodes/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Propandit/leetcodes/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/Propandit/leetcodes/tree/master/0907-koko-eating-bananas) |
 | [0917-boats-to-save-people](https://github.com/Propandit/leetcodes/tree/master/0917-boats-to-save-people) |
 | [0921-spiral-matrix-iii](https://github.com/Propandit/leetcodes/tree/master/0921-spiral-matrix-iii) |
+| [0941-sort-array-by-parity](https://github.com/Propandit/leetcodes/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/Propandit/leetcodes/tree/master/0948-sort-an-array) |
 | [1002-maximum-width-ramp](https://github.com/Propandit/leetcodes/tree/master/1002-maximum-width-ramp) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Propandit/leetcodes/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Propandit/leetcodes/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0853-most-profit-assigning-work](https://github.com/Propandit/leetcodes/tree/master/0853-most-profit-assigning-work) |
 | [0917-boats-to-save-people](https://github.com/Propandit/leetcodes/tree/master/0917-boats-to-save-people) |
+| [0941-sort-array-by-parity](https://github.com/Propandit/leetcodes/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/Propandit/leetcodes/tree/master/0948-sort-an-array) |
 | [1256-rank-transform-of-an-array](https://github.com/Propandit/leetcodes/tree/master/1256-rank-transform-of-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Propandit/leetcodes/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
