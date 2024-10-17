@@ -273,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Propandit/leetcodes/tree/master/0605-can-place-flowers) |
 | [0624-maximum-distance-in-arrays](https://github.com/Propandit/leetcodes/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Propandit/leetcodes/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0670-maximum-swap](https://github.com/Propandit/leetcodes/tree/master/0670-maximum-swap) |
 | [0853-most-profit-assigning-work](https://github.com/Propandit/leetcodes/tree/master/0853-most-profit-assigning-work) |
 | [0890-lemonade-change](https://github.com/Propandit/leetcodes/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/Propandit/leetcodes/tree/master/0917-boats-to-save-people) |
@@ -524,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/Propandit/leetcodes/tree/master/0292-nim-game) |
 | [0539-minimum-time-difference](https://github.com/Propandit/leetcodes/tree/master/0539-minimum-time-difference) |
 | [0650-2-keys-keyboard](https://github.com/Propandit/leetcodes/tree/master/0650-2-keys-keyboard) |
+| [0670-maximum-swap](https://github.com/Propandit/leetcodes/tree/master/0670-maximum-swap) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Propandit/leetcodes/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1585-the-kth-factor-of-n](https://github.com/Propandit/leetcodes/tree/master/1585-the-kth-factor-of-n) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Propandit/leetcodes/tree/master/1951-find-the-winner-of-the-circular-game) |
