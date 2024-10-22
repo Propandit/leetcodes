@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Propandit/leetcodes/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Propandit/leetcodes/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Propandit/leetcodes/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/Propandit/leetcodes/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Propandit/leetcodes/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Propandit/leetcodes/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/Propandit/leetcodes/tree/master/0295-find-median-from-data-stream) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Propandit/leetcodes/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/Propandit/leetcodes/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/Propandit/leetcodes/tree/master/0179-largest-number) |
+| [0189-rotate-array](https://github.com/Propandit/leetcodes/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Propandit/leetcodes/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/Propandit/leetcodes/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Propandit/leetcodes/tree/master/0283-move-zeroes) |
@@ -529,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Propandit/leetcodes/tree/master/0007-reverse-integer) |
+| [0189-rotate-array](https://github.com/Propandit/leetcodes/tree/master/0189-rotate-array) |
 | [0264-ugly-number-ii](https://github.com/Propandit/leetcodes/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/Propandit/leetcodes/tree/master/0273-integer-to-english-words) |
 | [0292-nim-game](https://github.com/Propandit/leetcodes/tree/master/0292-nim-game) |
