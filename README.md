@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Propandit/leetcodes/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Propandit/leetcodes/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Propandit/leetcodes/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/Propandit/leetcodes/tree/master/0394-decode-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Propandit/leetcodes/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/Propandit/leetcodes/tree/master/0443-string-compression) |
 | [0539-minimum-time-difference](https://github.com/Propandit/leetcodes/tree/master/0539-minimum-time-difference) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Propandit/leetcodes/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Propandit/leetcodes/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Propandit/leetcodes/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/Propandit/leetcodes/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/Propandit/leetcodes/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/Propandit/leetcodes/tree/master/0874-backspace-string-compare) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Propandit/leetcodes/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Propandit/leetcodes/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Propandit/leetcodes/tree/master/0234-palindrome-linked-list) |
 | [0273-integer-to-english-words](https://github.com/Propandit/leetcodes/tree/master/0273-integer-to-english-words) |
+| [0394-decode-string](https://github.com/Propandit/leetcodes/tree/master/0394-decode-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Propandit/leetcodes/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Propandit/leetcodes/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Hash Table
