@@ -581,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Propandit/leetcodes/tree/master/0387-first-unique-character-in-a-string) |
 | [0859-design-circular-deque](https://github.com/Propandit/leetcodes/tree/master/0859-design-circular-deque) |
+| [0969-number-of-recent-calls](https://github.com/Propandit/leetcodes/tree/master/0969-number-of-recent-calls) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Propandit/leetcodes/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Interactive
 |  |
@@ -609,11 +610,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Propandit/leetcodes/tree/master/0295-find-median-from-data-stream) |
 | [0859-design-circular-deque](https://github.com/Propandit/leetcodes/tree/master/0859-design-circular-deque) |
+| [0969-number-of-recent-calls](https://github.com/Propandit/leetcodes/tree/master/0969-number-of-recent-calls) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Propandit/leetcodes/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Data Stream
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Propandit/leetcodes/tree/master/0295-find-median-from-data-stream) |
+| [0969-number-of-recent-calls](https://github.com/Propandit/leetcodes/tree/master/0969-number-of-recent-calls) |
 ## Trie
 |  |
 | ------- |
