@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Propandit/leetcodes/tree/master/0735-asteroid-collision) |
 | [0853-most-profit-assigning-work](https://github.com/Propandit/leetcodes/tree/master/0853-most-profit-assigning-work) |
 | [0859-design-circular-deque](https://github.com/Propandit/leetcodes/tree/master/0859-design-circular-deque) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Propandit/leetcodes/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0890-lemonade-change](https://github.com/Propandit/leetcodes/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/Propandit/leetcodes/tree/master/0907-koko-eating-bananas) |
 | [0917-boats-to-save-people](https://github.com/Propandit/leetcodes/tree/master/0917-boats-to-save-people) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/Propandit/leetcodes/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Propandit/leetcodes/tree/master/0374-guess-number-higher-or-lower) |
 | [0853-most-profit-assigning-work](https://github.com/Propandit/leetcodes/tree/master/0853-most-profit-assigning-work) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Propandit/leetcodes/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/Propandit/leetcodes/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/Propandit/leetcodes/tree/master/1046-max-consecutive-ones-iii) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Propandit/leetcodes/tree/master/1615-range-sum-of-sorted-subarray-sums) |
