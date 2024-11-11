@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Propandit/leetcodes/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Propandit/leetcodes/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/Propandit/leetcodes/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Propandit/leetcodes/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Propandit/leetcodes/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Propandit/leetcodes/tree/master/0125-valid-palindrome) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Propandit/leetcodes/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Propandit/leetcodes/tree/master/0042-trapping-rain-water) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Propandit/leetcodes/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Propandit/leetcodes/tree/master/0145-binary-tree-postorder-traversal) |
@@ -493,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Propandit/leetcodes/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Propandit/leetcodes/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/Propandit/leetcodes/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/Propandit/leetcodes/tree/master/0064-minimum-path-sum) |
