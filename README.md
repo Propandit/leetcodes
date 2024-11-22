@@ -519,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Propandit/leetcodes/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Propandit/leetcodes/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/Propandit/leetcodes/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Propandit/leetcodes/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/Propandit/leetcodes/tree/master/0064-minimum-path-sum) |
 | [0119-pascals-triangle-ii](https://github.com/Propandit/leetcodes/tree/master/0119-pascals-triangle-ii) |
 | [0152-maximum-product-subarray](https://github.com/Propandit/leetcodes/tree/master/0152-maximum-product-subarray) |
@@ -602,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Propandit/leetcodes/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/Propandit/leetcodes/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/Propandit/leetcodes/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/Propandit/leetcodes/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/Propandit/leetcodes/tree/master/0189-rotate-array) |
 | [0233-number-of-digit-one](https://github.com/Propandit/leetcodes/tree/master/0233-number-of-digit-one) |
@@ -689,4 +691,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Propandit/leetcodes/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Propandit/leetcodes/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
