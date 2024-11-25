@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Propandit/leetcodes/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/Propandit/leetcodes/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/Propandit/leetcodes/tree/master/0162-find-peak-element) |
+| [0164-maximum-gap](https://github.com/Propandit/leetcodes/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Propandit/leetcodes/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Propandit/leetcodes/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Propandit/leetcodes/tree/master/0189-rotate-array) |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Propandit/leetcodes/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Propandit/leetcodes/tree/master/0075-sort-colors) |
+| [0164-maximum-gap](https://github.com/Propandit/leetcodes/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Propandit/leetcodes/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Propandit/leetcodes/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Propandit/leetcodes/tree/master/0215-kth-largest-element-in-an-array) |
@@ -567,10 +569,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/Propandit/leetcodes/tree/master/0164-maximum-gap) |
 | [0948-sort-an-array](https://github.com/Propandit/leetcodes/tree/master/0948-sort-an-array) |
 ## Radix Sort
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/Propandit/leetcodes/tree/master/0164-maximum-gap) |
 | [0948-sort-an-array](https://github.com/Propandit/leetcodes/tree/master/0948-sort-an-array) |
 ## Counting Sort
 |  |
