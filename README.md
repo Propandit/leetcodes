@@ -598,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Propandit/leetcodes/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/Propandit/leetcodes/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/Propandit/leetcodes/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Propandit/leetcodes/tree/master/0137-single-number-ii) |
 | [0476-number-complement](https://github.com/Propandit/leetcodes/tree/master/0476-number-complement) |
@@ -612,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Propandit/leetcodes/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Propandit/leetcodes/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/Propandit/leetcodes/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/Propandit/leetcodes/tree/master/0089-gray-code) |
 | [0189-rotate-array](https://github.com/Propandit/leetcodes/tree/master/0189-rotate-array) |
 | [0233-number-of-digit-one](https://github.com/Propandit/leetcodes/tree/master/0233-number-of-digit-one) |
 | [0264-ugly-number-ii](https://github.com/Propandit/leetcodes/tree/master/0264-ugly-number-ii) |
@@ -643,6 +645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Propandit/leetcodes/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0040-combination-sum-ii](https://github.com/Propandit/leetcodes/tree/master/0040-combination-sum-ii) |
+| [0089-gray-code](https://github.com/Propandit/leetcodes/tree/master/0089-gray-code) |
 | [0113-path-sum-ii](https://github.com/Propandit/leetcodes/tree/master/0113-path-sum-ii) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Propandit/leetcodes/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 ## Queue
