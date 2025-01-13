@@ -285,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Propandit/leetcodes/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Propandit/leetcodes/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2089-maximum-matrix-sum](https://github.com/Propandit/leetcodes/tree/master/2089-maximum-matrix-sum) |
+| [2094-remove-stones-to-minimize-the-total](https://github.com/Propandit/leetcodes/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Propandit/leetcodes/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/Propandit/leetcodes/tree/master/2155-find-missing-observations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Propandit/leetcodes/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Propandit/leetcodes/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/Propandit/leetcodes/tree/master/1304-longest-happy-string) |
 | [2089-maximum-matrix-sum](https://github.com/Propandit/leetcodes/tree/master/2089-maximum-matrix-sum) |
+| [2094-remove-stones-to-minimize-the-total](https://github.com/Propandit/leetcodes/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Propandit/leetcodes/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2487-optimal-partition-of-string](https://github.com/Propandit/leetcodes/tree/master/2487-optimal-partition-of-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Propandit/leetcodes/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -562,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-longest-happy-string](https://github.com/Propandit/leetcodes/tree/master/1304-longest-happy-string) |
 | [1325-path-with-maximum-probability](https://github.com/Propandit/leetcodes/tree/master/1325-path-with-maximum-probability) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Propandit/leetcodes/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2094-remove-stones-to-minimize-the-total](https://github.com/Propandit/leetcodes/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Propandit/leetcodes/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Merge Sort
 |  |
