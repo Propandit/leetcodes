@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Propandit/leetcodes/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Propandit/leetcodes/tree/master/2586-longest-square-streak-in-an-array) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Propandit/leetcodes/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Propandit/leetcodes/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Propandit/leetcodes/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Propandit/leetcodes/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Propandit/leetcodes/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/Propandit/leetcodes/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2727-number-of-senior-citizens](https://github.com/Propandit/leetcodes/tree/master/2727-number-of-senior-citizens) |
 | [2756-buy-two-chocolates](https://github.com/Propandit/leetcodes/tree/master/2756-buy-two-chocolates) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Propandit/leetcodes/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Propandit/leetcodes/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Propandit/leetcodes/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Propandit/leetcodes/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -611,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/Propandit/leetcodes/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Propandit/leetcodes/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Propandit/leetcodes/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Propandit/leetcodes/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Math
 |  |
 | ------- |
