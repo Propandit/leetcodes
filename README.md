@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Propandit/leetcodes/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Propandit/leetcodes/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Propandit/leetcodes/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [3483-alternating-groups-ii](https://github.com/Propandit/leetcodes/tree/master/3483-alternating-groups-ii) |
 ## Array
 |  |
 | ------- |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/Propandit/leetcodes/tree/master/3227-find-missing-and-repeated-values) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Propandit/leetcodes/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Propandit/leetcodes/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3483-alternating-groups-ii](https://github.com/Propandit/leetcodes/tree/master/3483-alternating-groups-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Propandit/leetcodes/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Propandit/leetcodes/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Binary Search
