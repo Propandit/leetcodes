@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Propandit/leetcodes/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/Propandit/leetcodes/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/Propandit/leetcodes/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/Propandit/leetcodes/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/Propandit/leetcodes/tree/master/0874-backspace-string-compare) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Propandit/leetcodes/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/Propandit/leetcodes/tree/master/1002-maximum-width-ramp) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Propandit/leetcodes/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Propandit/leetcodes/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Propandit/leetcodes/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/Propandit/leetcodes/tree/master/0739-daily-temperatures) |
 | [0853-most-profit-assigning-work](https://github.com/Propandit/leetcodes/tree/master/0853-most-profit-assigning-work) |
 | [0859-design-circular-deque](https://github.com/Propandit/leetcodes/tree/master/0859-design-circular-deque) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Propandit/leetcodes/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -619,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Propandit/leetcodes/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/Propandit/leetcodes/tree/master/0739-daily-temperatures) |
 | [1002-maximum-width-ramp](https://github.com/Propandit/leetcodes/tree/master/1002-maximum-width-ramp) |
 ## Bit Manipulation
 |  |
