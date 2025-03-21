@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Propandit/leetcodes/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Propandit/leetcodes/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Propandit/leetcodes/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Propandit/leetcodes/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Propandit/leetcodes/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Propandit/leetcodes/tree/master/0394-decode-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Propandit/leetcodes/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Propandit/leetcodes/tree/master/0169-majority-element) |
 | [0264-ugly-number-ii](https://github.com/Propandit/leetcodes/tree/master/0264-ugly-number-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Propandit/leetcodes/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Propandit/leetcodes/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Propandit/leetcodes/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/Propandit/leetcodes/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Propandit/leetcodes/tree/master/0567-permutation-in-string) |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Propandit/leetcodes/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Propandit/leetcodes/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/Propandit/leetcodes/tree/master/0295-find-median-from-data-stream) |
+| [0389-find-the-difference](https://github.com/Propandit/leetcodes/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Propandit/leetcodes/tree/master/0414-third-maximum-number) |
 | [0539-minimum-time-difference](https://github.com/Propandit/leetcodes/tree/master/0539-minimum-time-difference) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Propandit/leetcodes/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -635,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Propandit/leetcodes/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Propandit/leetcodes/tree/master/0137-single-number-ii) |
 | [0371-sum-of-two-integers](https://github.com/Propandit/leetcodes/tree/master/0371-sum-of-two-integers) |
+| [0389-find-the-difference](https://github.com/Propandit/leetcodes/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/Propandit/leetcodes/tree/master/0476-number-complement) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Propandit/leetcodes/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Propandit/leetcodes/tree/master/1786-count-the-number-of-consistent-strings) |
