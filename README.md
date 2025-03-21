@@ -281,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Propandit/leetcodes/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Propandit/leetcodes/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Propandit/leetcodes/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Propandit/leetcodes/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Propandit/leetcodes/tree/master/1435-xor-queries-of-a-subarray) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Propandit/leetcodes/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Propandit/leetcodes/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -664,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0650-2-keys-keyboard](https://github.com/Propandit/leetcodes/tree/master/0650-2-keys-keyboard) |
 | [0670-maximum-swap](https://github.com/Propandit/leetcodes/tree/master/0670-maximum-swap) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Propandit/leetcodes/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Propandit/leetcodes/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1585-the-kth-factor-of-n](https://github.com/Propandit/leetcodes/tree/master/1585-the-kth-factor-of-n) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Propandit/leetcodes/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2155-find-missing-observations](https://github.com/Propandit/leetcodes/tree/master/2155-find-missing-observations) |
