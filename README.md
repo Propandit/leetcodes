@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Propandit/leetcodes/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/Propandit/leetcodes/tree/master/0258-add-digits) |
 | [0735-asteroid-collision](https://github.com/Propandit/leetcodes/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/Propandit/leetcodes/tree/master/0874-backspace-string-compare) |
 | [0921-spiral-matrix-iii](https://github.com/Propandit/leetcodes/tree/master/0921-spiral-matrix-iii) |
@@ -658,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/Propandit/leetcodes/tree/master/0089-gray-code) |
 | [0189-rotate-array](https://github.com/Propandit/leetcodes/tree/master/0189-rotate-array) |
 | [0233-number-of-digit-one](https://github.com/Propandit/leetcodes/tree/master/0233-number-of-digit-one) |
+| [0258-add-digits](https://github.com/Propandit/leetcodes/tree/master/0258-add-digits) |
 | [0264-ugly-number-ii](https://github.com/Propandit/leetcodes/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/Propandit/leetcodes/tree/master/0273-integer-to-english-words) |
 | [0292-nim-game](https://github.com/Propandit/leetcodes/tree/master/0292-nim-game) |
@@ -710,6 +712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Propandit/leetcodes/tree/master/0258-add-digits) |
 | [1585-the-kth-factor-of-n](https://github.com/Propandit/leetcodes/tree/master/1585-the-kth-factor-of-n) |
 ## Graph
 |  |
