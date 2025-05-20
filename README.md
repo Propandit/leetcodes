@@ -328,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-alternating-groups-ii](https://github.com/Propandit/leetcodes/tree/master/3483-alternating-groups-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Propandit/leetcodes/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Propandit/leetcodes/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3639-zero-array-transformation-i](https://github.com/Propandit/leetcodes/tree/master/3639-zero-array-transformation-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -419,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/Propandit/leetcodes/tree/master/1833-find-the-highest-altitude) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Propandit/leetcodes/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Propandit/leetcodes/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [3639-zero-array-transformation-i](https://github.com/Propandit/leetcodes/tree/master/3639-zero-array-transformation-i) |
 ## Tree
 |  |
 | ------- |
